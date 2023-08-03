@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Gerenciador de tarefas-Emilton-Francisco.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Gerenciador de tarefas-Emilton-Francisco.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\Estudos\\c\\Gerenciador de tarefas-Emilton-Francisco\\Gerenciador de tarefas-Emilton-Francisco\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Gerenciador de tarefas-Emilton-Francisco.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Gerenciador de tarefas-Emilton-Francisco.props",
+      "PackagePath": "build\\Gerenciador de tarefas-Emilton-Francisco.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Gerenciador de tarefas-Emilton-Francisco.props",
+      "PackagePath": "buildMultiTargeting\\Gerenciador de tarefas-Emilton-Francisco.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Gerenciador de tarefas-Emilton-Francisco.props",
+      "PackagePath": "buildTransitive\\Gerenciador de tarefas-Emilton-Francisco.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gerenciador de tarefas-Emilton-Francisco/1.0.0": {
+        "runtime": {
+          "Gerenciador de tarefas-Emilton-Francisco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gerenciador de tarefas-Emilton-Francisco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

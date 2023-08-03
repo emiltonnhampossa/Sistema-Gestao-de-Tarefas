@@ -1,0 +1,32 @@
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\bin\Debug\net6.0\appsettings.Development.json
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\bin\Debug\net6.0\appsettings.json
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\bin\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.staticwebassets.runtime.json
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\bin\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.exe
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\bin\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.deps.json
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\bin\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.runtimeconfig.json
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\bin\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.dll
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\bin\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.pdb
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.csproj.AssemblyReference.cache
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.GeneratedMSBuildEditorConfig.editorconfig
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.AssemblyInfoInputs.cache
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.AssemblyInfo.cs
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.csproj.CoreCompileInputs.cache
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.MvcApplicationPartsAssemblyInfo.cache
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.RazorAssemblyInfo.cache
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.RazorAssemblyInfo.cs
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\staticwebassets\msbuild.Gerenciador de tarefas-Emilton-Francisco.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\staticwebassets\msbuild.build.Gerenciador de tarefas-Emilton-Francisco.props
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gerenciador de tarefas-Emilton-Francisco.props
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gerenciador de tarefas-Emilton-Francisco.props
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\staticwebassets.build.json
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\staticwebassets.development.json
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\scopedcss\bundle\Gerenciador de tarefas-Emilton-Francisco.styles.css
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\scopedcss\projectbundle\Gerenciador de tarefas-Emilton-Francisco.bundle.scp.css
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.dll
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\refint\Gerenciador de tarefas-Emilton-Francisco.dll
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.pdb
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\Gerenciador de tarefas-Emilton-Francisco.genruntimeconfig.cache
+G:\Estudos\c\Gerenciador de tarefas-Emilton-Francisco\Gerenciador de tarefas-Emilton-Francisco\obj\Debug\net6.0\ref\Gerenciador de tarefas-Emilton-Francisco.dll
